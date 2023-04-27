@@ -3,6 +3,6 @@
 .holder{
 	width:200px;
 	display: grid;
-	grid-template-row:repeat(2,auto);
-	grid-template-column:repeat(2,auto);
+	grid-template-rows:repeat(2,auto);
+	grid-template-columns:repeat(2,auto);
 }
